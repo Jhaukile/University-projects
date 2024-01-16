@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<State>
+  <Object Name="default" TypeAssembly="Jypeli, Version=11.3.6.0, Culture=neutral, PublicKeyToken=null" Type="ScoreList">
+    <Field Name="_scores" Type="Jypeli.ScoreItem[], Jypeli, Version=11.3.6.0, Culture=neutral, PublicKeyToken=null">
+      <Array Type="Jypeli.ScoreItem[], Jypeli, Version=11.3.6.0, Culture=neutral, PublicKeyToken=null">
+        <Item Index="0" Type="Jypeli.ScoreItem, Jypeli, Version=11.3.6.0, Culture=neutral, PublicKeyToken=null">
+          <Field Name="Name" Type="System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>dfghhdfghdtxdfgjrthdrfthdfth</Value>
+          </Field>
+          <Field Name="Score" Type="System.Double, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>51</Value>
+          </Field>
+        </Item>
+        <Item Index="1" Type="Jypeli.ScoreItem, Jypeli, Version=11.3.6.0, Culture=neutral, PublicKeyToken=null">
+          <Field Name="Name" Type="System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>dfghhdfghdtxdfgjrthdrfthdfth</Value>
+          </Field>
+          <Field Name="Score" Type="System.Double, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>36</Value>
+          </Field>
+        </Item>
+        <Item Index="2" Type="Jypeli.ScoreItem, Jypeli, Version=11.3.6.0, Culture=neutral, PublicKeyToken=null">
+          <Field Name="Name" Type="System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>dfghhdfghdtxdfgjrthdrfthdfth</Value>
+          </Field>
+          <Field Name="Score" Type="System.Double, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>34</Value>
+          </Field>
+        </Item>
+        <Item Index="3" Type="Jypeli.ScoreItem, Jypeli, Version=11.3.6.0, Culture=neutral, PublicKeyToken=null">
+          <Field Name="Name" Type="System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>Haukjohe</Value>
+          </Field>
+          <Field Name="Score" Type="System.Double, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>27</Value>
+          </Field>
+        </Item>
+        <Item Index="4" Type="Jypeli.ScoreItem, Jypeli, Version=11.3.6.0, Culture=neutral, PublicKeyToken=null">
+          <Field Name="Name" Type="System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>dfghhdfghdtxdfgjrthdrfthdfth</Value>
+          </Field>
+          <Field Name="Score" Type="System.Double, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>18</Value>
+          </Field>
+        </Item>
+        <Item Index="5" Type="Jypeli.ScoreItem, Jypeli, Version=11.3.6.0, Culture=neutral, PublicKeyToken=null">
+          <Field Name="Name" Type="System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>dfghhdfghdtxdfgjrthdrfthdfth</Value>
+          </Field>
+          <Field Name="Score" Type="System.Double, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>18</Value>
+          </Field>
+        </Item>
+        <Item Index="6" Type="Jypeli.ScoreItem, Jypeli, Version=11.3.6.0, Culture=neutral, PublicKeyToken=null">
+          <Field Name="Name" Type="System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>1</Value>
+          </Field>
+          <Field Name="Score" Type="System.Double, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>18</Value>
+          </Field>
+        </Item>
+        <Item Index="7" Type="Jypeli.ScoreItem, Jypeli, Version=11.3.6.0, Culture=neutral, PublicKeyToken=null">
+          <Field Name="Name" Type="System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>Haukjohe</Value>
+          </Field>
+          <Field Name="Score" Type="System.Double, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>18</Value>
+          </Field>
+        </Item>
+        <Item Index="8" Type="Jypeli.ScoreItem, Jypeli, Version=11.3.6.0, Culture=neutral, PublicKeyToken=null">
+          <Field Name="Name" Type="System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>Haukjohe</Value>
+          </Field>
+          <Field Name="Score" Type="System.Double, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>18</Value>
+          </Field>
+        </Item>
+        <Item Index="9" Type="Jypeli.ScoreItem, Jypeli, Version=11.3.6.0, Culture=neutral, PublicKeyToken=null">
+          <Field Name="Name" Type="System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>dfghhdfghdtxdfgjrthdrfthdfth</Value>
+          </Field>
+          <Field Name="Score" Type="System.Double, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+            <Value>12</Value>
+          </Field>
+        </Item>
+      </Array>
+    </Field>
+    <Field Name="LastEnteredName" Type="System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+      <Value>Haukjohe</Value>
+    </Field>
+  </Object>
+</State>
